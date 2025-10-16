@@ -26,6 +26,25 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+https://drive.google.com/file/d/15uo9YMGYQJD2mLD0VSt6T9I0LxxDPlaq/view?usp=sharing
+
+
+**TABULATION/CALCULATION:**
+
+https://drive.google.com/file/d/1fxxDykb2LaWU0tZ3qTcSpm6TTMa7YuMW/view?usp=sharing
+https://drive.google.com/file/d/1Dx-vDKChnP1tfiCjDjVikMdEVhzTpRgK/view?usp=sharing
+
+
+**GRAPH:**
+
+https://drive.google.com/file/d/1ZWEOqs-PqgiKXieIguFjweaiOxHlxO_X/view?usp=sharing
+
+
+**MARK SPLITUP:**
+
+https://drive.google.com/file/d/1RIz-q6vvHwH6GqogRBj4WBcZyzQZ8yCC/view?usp=sharing
+
+
 
 **MODEL GRAPH:**
 
